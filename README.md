@@ -13,5 +13,4 @@
 ### ✔️ 강의 정리 내용
 
 > #### [1. Process & Thread 요약](https://github.com/opopqkr/concurrency-programming/blob/main/sumarry/1.%20Process%20%26%20Thread.md) <br>
-
-
+> #### [2. Concurrent & Parallel 요약](https://github.com/opopqkr/concurrency-programming/blob/main/sumarry/2.%20Concurrent%20%26%20Parallel.md) <br>
